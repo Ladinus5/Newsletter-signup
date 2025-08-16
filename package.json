@@ -1,0 +1,18 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "Newsletter Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ladinus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^17.2.1",
+    "express": "^4.21.2",
+    "redirect": "^0.2.0",
+    "request": "^2.88.2"
+  }
+}
